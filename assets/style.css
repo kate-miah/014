@@ -1,0 +1,22 @@
+.main-article {
+    color: blue;
+    font-size: 60px;
+    line-height: 90px;
+}
+
+.article-header {
+    font-size: 1.5em; /* 90px */
+}
+
+.article-content {
+    font-size: 0.5em; /* 30px */
+    line-height: 1em;
+}
+
+span {
+    color: red;
+    font-size: 0.5em; /* 15px */
+}
+
+
+/*font-size: inherit;*/
