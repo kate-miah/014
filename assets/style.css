@@ -1,28 +1,74 @@
-div {
+.box    {
+    background-color: violet;
+    width: 200px;
+    height: 200px;
+    border: 3px solid grey;
+    margin: 20px;
     display: inline-block;
-    width: 30%;
+    border-radius: 50%;
+}
+
+.box11 {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    border: 3px solid grey;
+    margin: 20px;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+/*Task*/
+
+
+.box1 {
+    width: 200px;
+    height: 200px;
+    border: 3px solid grey;
+    margin: 20px;
+    display: inline-block;
+    border-radius: 50%;
+} 
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
 }
 
 
-.main-article {
-    color: blue;
-    border: 5px solid black;
-    font-size: 50px; 
-
+.red {
+    background-color: red;
 }
+/* .box11 {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    border: 3px solid grey;
+    margin: 20px;
+    display: inline-block;
+    border-radius: 50%;
+}  */
 
-span {
-    color: red;
-    margin: 2px;
-    padding: 2px;
-    border: 5px solid black;
-}
-.wrapper {
-    border: 5px solid black;
+/* .box12 {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    border: 3px solid grey;
+    margin: 20px;
+    display: inline-block;
+    border-radius: 50%;
+}  */
 
-}
-img {
-    width: 100%;
-}
+/* .box13 {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border: 3px solid grey;
+    margin: 20px;
+    display: inline-block;
+    border-radius: 50%; *
+} */
 
-/*font-size: inherit;*/
